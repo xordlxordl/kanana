@@ -1,4 +1,4 @@
-* kanana (Kakao corp) LoRa 
+# kanana (Kakao corp) LoRa 
 
 - [train/test].json : data for test
 - python kanana_lora.py : Lora
